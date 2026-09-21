@@ -9,4 +9,9 @@ Most of them use the Coin A dipswitch setting to enable freeplay.  I'll try to i
 The Tetris and Tetris cocktail patches enable/disable the difficulty select screen and/or continues.  See the readme in the zip.  
 
 -9/21/26 - Added Phozon freeplay with attract.  Also translated the Japenese text to English.  I think I covered all the instances...
+
 -9/21/26 - Added Dig Dug II freeplay with attract.
+
+-9/21/26 - Updated the Eyes patch to ignore adding credits while in freeplay mode
+
+-9/21/26 - Updated Pac N Pal (Pressing P1 or P2 start while in freplay wasn't registering on the gameplay demo part of attract)
