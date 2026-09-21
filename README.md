@@ -1,3 +1,7 @@
+Someone asked if they could make a donation for this work. It isn’t expected and everything I do here will always be free, but if you are so inclined…
+
+https://venmo.com/u/mattpsu03
+
 These are IPS patches that you can apply to the stock ROM to enable Freeplay mode while retaining attract screens.
 
 Most of them use the Coin A dipswitch setting to enable freeplay.  I'll try to include a readme within the zip to include the setting that enables it
