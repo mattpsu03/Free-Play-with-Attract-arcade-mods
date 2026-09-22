@@ -17,3 +17,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -9/21/26 - Updated Pac N Pal (Pressing P1 or P2 start while in freeplay wasn't registering on the gameplay demo part of attract)
 
 -9/21/26 - Added Super Space Invaders '91 freeplay with attract.  (3 coins/1 credit enables freeplay)
+
+-9/22/26 - Added Frogger 6-digit scoring, freeplay with attract, bugfixed version (credit to SNESNESCUBE64 and philmurr for freeplay and bugfix patches)
