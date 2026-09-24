@@ -19,3 +19,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -9/21/26 - Added Super Space Invaders '91 freeplay with attract.  (3 coins/1 credit enables freeplay)
 
 -9/22/26 - Added Frogger 6-digit scoring, freeplay with attract, bugfixed version (credit to SNESNESCUBE64 and philmurr for freeplay and bugfix patches)
+
+-9/24/26 - Added Gaplus Freeplay with Attract (3 Coins/1 Credit in coin A to activate freeplay)
