@@ -33,3 +33,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -9/25/26 - Added Ladybug Freeplay with Attract (Hi score table is shown for 5 secs at the end of the attract sequence)
 
 -9/26/26 - Added Vs. The Goonies Freeplay with Attract
+
+-9/26/26 - Added Vs. R.B.I. Baseball Freeplay with Attract (3 coins/1 credit in coin A to activate freeplay)
