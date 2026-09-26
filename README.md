@@ -25,3 +25,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -9/24/26 - Added Jumpbug, Alpine Ski, and Pitfall II Freeplay with Attract
 
 -9/25/26 - Added 1942 Freeplay with Attract
+
+-9/25/26 - Added Pac-Land Freeplay with Attract (3 coins/1 Credit in coin A to activate freeplay)
