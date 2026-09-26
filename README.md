@@ -35,3 +35,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -9/26/26 - Added Vs. The Goonies Freeplay with Attract
 
 -9/26/26 - Added Vs. R.B.I. Baseball Freeplay with Attract (3 coins/1 credit in coin A to activate freeplay)
+
+-9/26/26 - Added Megaplay Sonic the Hedgehog Freeplay with Attract, no continue patch, and hiscore.dat fix
