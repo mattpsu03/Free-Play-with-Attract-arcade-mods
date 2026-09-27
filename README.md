@@ -40,4 +40,4 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 
 -9/27/26 - Added Bal Cube Freeplay with attract fix and English translation
 
--9/27/26 - Added Ghostbusters (2 player "ghostb" version) Freeplay with attract
+-9/27/26 - Added Ghostbusters (2 player "ghostb" version) Freeplay with attract (set first unused dip switch to ON)
