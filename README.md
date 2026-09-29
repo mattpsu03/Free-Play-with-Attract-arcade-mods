@@ -45,3 +45,7 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -9/28/26 - Added Swimmer, Flicky, and Rastan Freeplay with Attract
 
 -9/29/26 - Added Food Fight enhanced Freeplay with Attract/8-way Digital Joystick version.  This adds the additional attract screens in Freeplay that are omitted on the freeplay setting.  Also, the letter selection on the high score initials input screen are now selected by tapping left and right on the joystick.  This game is best played with an analog stick, but you can now enter your initials with a regular digital joystick.  It should still work fine with an analog joystick, but I have not tested that.
+
+-9/29/26 - Added Alcon Freeplay with Attract.  (unused dip switch toggles freeplay setting)
+
+-9/29/26 - Added Xevious Freeplay with Attract (1 Coin/2 Credits setting enables freeplay)
