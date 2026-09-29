@@ -43,3 +43,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -9/27/26 - Added Ghostbusters (2 player "ghostb" version) Freeplay with attract (set first unused dip switch to ON)
 
 -9/28/26 - Added Swimmer, Flicky, and Rastan Freeplay with Attract
+
+-9/29/26 - Added Food Fight enhanced Freeplay with Attract/8-way Digital Joystick version.  This adds the additional attract screens in Freeplay that are omitted on the freeplay setting.  Also, the letter selection on the high score initials input screen are now selected by tapping left and right on the joystick.  This game is best played with an analog stick, but you can now enter your initials with a regular digital joystick.  It should still work fine with an analog joystick, but I have not tested that.
