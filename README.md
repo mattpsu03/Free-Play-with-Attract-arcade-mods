@@ -53,3 +53,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -9/29/26 - Added Renegade and Hyper Pac-Man Freeplay with attract.  Added continue disable toggle for Hyper Pac-Man
 
 -9/30/26 - Added Make Trax and Congo Bongo freeplay with attract.
+
+-9/30/26 - Added Return of Invaders freeplay with attract.
