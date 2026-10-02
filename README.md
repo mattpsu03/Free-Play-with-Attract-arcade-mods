@@ -54,6 +54,10 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 
 -9/30/26 - Added Make Trax and Congo Bongo freeplay with attract.
 
+-9/30/26 - Added Return of Invaders freeplay with attract.
+
 -10/2/26 - Added Thief freeplay with attract (first unused dip switch toggles freeplay)
 
--9/30/26 - Added Return of Invaders freeplay with attract.
+-10/2/26 - Added Blasteroids freeplay enhancement and continues allowed toggle
+
+
