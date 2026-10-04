@@ -62,4 +62,4 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 
 -10/2/26 - Added Gorf freeplay with attract
 
-
+-10/4/26 - Added Juno First freeplay with attract
