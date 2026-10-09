@@ -65,3 +65,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -10/4/26 - Added Juno First freeplay with attract
 
 -10/4/26 - Added Journey freeplay with attract
+
+-10/9/26 - Added The End freeplay with attract
