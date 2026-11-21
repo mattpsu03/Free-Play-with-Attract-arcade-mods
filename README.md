@@ -67,3 +67,5 @@ The Tetris and Tetris cocktail patches enable/disable the difficulty select scre
 -10/4/26 - Added Journey freeplay with attract
 
 -10/9/26 - Added The End freeplay with attract
+
+-11/20/26 - Added MotoRace USA and Traverse USA Freeplay with Attract
